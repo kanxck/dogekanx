@@ -5,7 +5,7 @@ run doge click bot telegram via vps
 
 link bot doge https://t.me/Dogecoin_click_bot?start=3VJv
 
-install method
+# install method
 
 
 wget https://github.com/kanxck/dogekanx/raw/master/kanx-cunxkrinx.sh
